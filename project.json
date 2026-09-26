@@ -1,0 +1,46 @@
+{
+  "id": 44,
+  "category": "game-companion",
+  "slug": "apex-loadout-notebook",
+  "target": "Apex Legends",
+  "appid": "1172470",
+  "summaryRu": "Каталог ручных сравнений оружия и тренировочных упражнений.",
+  "features": [
+    "Loadout comparison sheets",
+    "Firing range drill cards",
+    "Season change journal"
+  ],
+  "title": "RangeRoutine — Apex Legends — Marksmanship",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    },
+    {
+      "type": "steam-store-presence",
+      "sourceId": "steam-top-sellers",
+      "detail": "Present in the retrieved top-seller-filtered store response; regional/session ordering may vary."
+    }
+  ],
+  "brand": "RangeRoutine",
+  "repositoryName": "rangeroutine-apex-loadout-notebook-marksmanship",
+  "githubTopics": [
+    "apex-legends",
+    "loadout-planning",
+    "firing-range",
+    "season-notes",
+    "game-companion",
+    "manual-planning",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "marksmanship"
+}
